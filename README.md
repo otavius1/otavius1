@@ -22,5 +22,5 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/otavius1)
+- [🔗 LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-9684aa162/)
 - [📧 Email](mailto:otavio.rodri3@gmail.com)
