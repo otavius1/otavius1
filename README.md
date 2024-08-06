@@ -6,8 +6,8 @@
 👨‍💻 Bringing concepts to life through coding. ✨ Dedicated to crafting web applications that make an impact. 🌍 Diving into the world of Full Stack Development with ⚛️ React and beyond.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otavius1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavius1&layout=compact&theme=radical"  alt="Linguagens Mais Usadas" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otavius1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavius1&layout=compact&theme=radical"  alt="Linguagens Mais Usadas" height="150" />
 </p>
 
 <div style="display: inline_block"><br>
