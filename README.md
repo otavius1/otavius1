@@ -1,4 +1,4 @@
-### Hi, I'm Otávio! Welcome to mu GitHub Profile 👋
+### Hi, I'm Otávio! Welcome to my GitHub Profile 👋
 
 #### 💻 Full Stack Developer
 #### 🎓 Graduated in Systems Analysis and Development
